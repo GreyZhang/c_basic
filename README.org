@@ -5,4 +5,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/111088630][479_C语言sizeof知识点小结]]
 - [[https://greyzhang.blog.csdn.net/article/details/111186491][480_C语言编译链接结果文件分析]]
 - [[https://greyzhang.blog.csdn.net/article/details/111241086][481_C语言野指针]]
+- [[https://greyzhang.blog.csdn.net/article/details/111302518][482_C语言函数指针小结]]
 
