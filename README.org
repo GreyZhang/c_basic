@@ -11,3 +11,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113804104][516_Linux C编程中的sleep函数]]
 - [[https://greyzhang.blog.csdn.net/article/details/113809785][521_linux C编程中C语言实现命令行参数]]
 - [[https://greyzhang.blog.csdn.net/article/details/114445982][565_C语言中关于减号操作符使用的一点小细节以及曾经的误解]]
+- [[https://blog.csdn.net/grey_csdn/article/details/124851232][1242_C语言实现简单的查表]]
