@@ -13,3 +13,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114445982][565_C语言中关于减号操作符使用的一点小细节以及曾经的误解]]
 - [[https://blog.csdn.net/grey_csdn/article/details/124851232][1242_C语言实现简单的查表]]
 - [[https://blog.csdn.net/grey_csdn/article/details/125962949][1310_一个printf的实现分析]]
+- [[https://blog.csdn.net/grey_csdn/article/details/129771036][1653_C语言在定义数组的时候指定某几个元素的初始值]]
