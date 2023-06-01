@@ -16,3 +16,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/129771036][1653_C语言在定义数组的时候指定某几个元素的初始值]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130458545][1696_C语言中变量默认初始化初值探究测试]]
 - [[https://blog.csdn.net/grey_csdn/article/details/130734000][1712_C语言puts函数输出乱码测试]]
+- [[https://blog.csdn.net/grey_csdn/article/details/130981644][1728_c语言标准库memcpy函数的简单使用]]
