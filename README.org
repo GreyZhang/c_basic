@@ -22,3 +22,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/131353867][1749_宏编译开关_include_sandwich]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131366213][1750_使用gcc对嵌入式代码控制逻辑进行测试]]
 - [[https://blog.csdn.net/grey_csdn/article/details/131428835][1754_C语言assert函数功能初探]]
+- [[https://blog.csdn.net/grey_csdn/article/details/131468465][1755_C语言memcpy的使用]]
