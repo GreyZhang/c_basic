@@ -32,3 +32,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/133040326][1784_C语言实现常用的复数运算]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133040752][1787_函数指针的使用]]
 - [[https://blog.csdn.net/grey_csdn/article/details/134911584][1835_GCC中C语言typeof的使用]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135440051][1868_C语言单向链表的实现]]
